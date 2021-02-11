@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # check the app on below link loading might take time since video caching is not done
 https://tiktok-clone-c8711.web.app/
 
+# backend part is not linked to the frontend project since i didnt had  video links so video link replaced by locally saved video .
 
 
 ## Available Scripts
