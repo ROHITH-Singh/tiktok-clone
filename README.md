@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-# check the app on below link loading might take time since video caching is not do
+# check the app on below link loading might take time since video caching is not done
 https://tiktok-clone-c8711.web.app/
 
 
